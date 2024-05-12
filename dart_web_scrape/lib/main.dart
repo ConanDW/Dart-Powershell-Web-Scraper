@@ -1,4 +1,4 @@
-import 'package:dart_web_scrape/webscrape.dart';
+
 import 'package:flutter/material.dart';
 
 void Main() => runApp(const WebScrape());
