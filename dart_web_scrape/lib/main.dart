@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-void Main() => runApp(const WebScrape());
+void main() => runApp(const WebScrape());
 class WebScrape extends StatelessWidget {
   const WebScrape({super.key});
 
